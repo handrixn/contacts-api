@@ -35,13 +35,13 @@ This project is a Contact Management RESTful API implemented in Golang. It provi
 
    `cd contacts-api`
 
-3. Build and run the project:
+3. Build the project:
 
    `make build`
 
 4. Run the project:
 
-   `./make run`
+   `make run`
 
    The API will start running on `http://localhost:8080`.
 
